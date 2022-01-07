@@ -21,7 +21,7 @@
             <artifactId>javalin</artifactId>
             <version>${project.version}</version>
         </dependency>
-        <!-- END Project dependencies -->
+        <!-- END Project ldependencies -->
         <!-- BEGIN Plugin dependencies -->
         <dependency>
             <groupId>com.expediagroup</groupId>
